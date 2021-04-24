@@ -22,6 +22,12 @@ https://github.com/SergeyKlimuk603/MyTimer1f
 https://github.com/SergeyKlimuk603/Matches
 
 ---
+### Education  
+* __Belarusian National Technical University (BNTU)__  
+Automated electric drive  
+2001 - 2007  
+
+---
 ### Expirience  
 * __Electrician-adjuster__  
 JSC "Grodnozhilstroy"  
@@ -29,9 +35,4 @@ aug. 2010 - sep. 2020 (10y. 6m.)
 * __Service engineer__  
 company "Devices and systems"  
 feb. 2007 - mar. 2010 (3y. 2m.)  
-
----
-### Education  
-* __Belarusian National Technical University (BNTU)__  
-Automated electric drive  
-2001 - 2007  
+ 
